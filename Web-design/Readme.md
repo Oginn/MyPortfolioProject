@@ -12,4 +12,5 @@ here we will be looking at the the essential commmand, code and tag of html
 * Tag
 * Div
 * Table
+* Class
 and lot more function to get ahead with
